@@ -42,8 +42,8 @@ font:
 
   # The italic font face
   italic:
-    family: C059
-    style: "Medium Italic"
+    family: "DejaVu Sans Mono"
+    style: "Bold Oblique"
 
   # Point size of the font
   size: 15.0

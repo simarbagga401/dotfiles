@@ -19,9 +19,8 @@ set termguicolors
 set scrolloff=8
 set noshowmode
 set signcolumn=yes
-highlight Comment cterm=italic gui=italic
 
-
+" Trimming WhiteSpace at end of the line
 fun! TrimWhitespace()
     let l:save = winsaveview()
     keeppatterns %s/\s\+$//e
