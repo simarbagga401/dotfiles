@@ -19,6 +19,9 @@ set termguicolors
 set scrolloff=8
 set noshowmode
 set signcolumn=yes
+set nowrap
+set mouse=a
+set showtabline=2
 let mapleader = " "
 
 " Trimming WhiteSpace at end of the line
